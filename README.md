@@ -1,7 +1,7 @@
 # Feature Finder
 
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## NON-TECHNICAL EXPLANATION
 This project utilizes the Kaggle Machine Learning & Data Science Survey to power a predictive model that informs both new and existing survey respondents about actionable changes they can make to enhance their job satisfaction, considering their unchangeable circumstances. By analyzing survey data, the model identifies key factors under a respondent's control that can positively impact their job satisfaction. This tool is particularly useful for individuals seeking to understand how specific changes in their professional lives could lead to greater satisfaction at work.
 
 ## DATA
